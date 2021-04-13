@@ -88,5 +88,19 @@
     color: floralwhite;
     max-width: 100%;
     width: 47%;
-    
+        
+}
+
+#header5{
+    text-align: center;
+    font-size: 25px;
+}
+
+#logos{
+    max-width:100%;
+    height:auto;
+    display: flex;
+    padding: 40px;
+    justify-content: space-around;
+    margin: 0.75rem;
 }
