@@ -105,10 +105,10 @@
     margin: 0.75rem;
 }
 
-#container5{
+#container6{
     display: flex;
 }
-#container5_details{
+#container6_details{
     /* display: flex; */
     background-color: #93cb52;
     /* width: 30%; */
@@ -116,7 +116,7 @@
     /* width: 100%; */
 }
 
-#container5_details button{
+#container6_details button{
     background-color: darkslategray;
     color: floralwhite;
 }
