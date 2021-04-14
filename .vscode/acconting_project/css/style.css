@@ -104,3 +104,19 @@
     justify-content: space-around;
     margin: 0.75rem;
 }
+
+#container5{
+    display: flex;
+}
+#container5_details{
+    /* display: flex; */
+    background-color: #93cb52;
+    /* width: 30%; */
+    color: white;
+    /* width: 100%; */
+}
+
+#container5_details button{
+    background-color: darkslategray;
+    color: floralwhite;
+}
